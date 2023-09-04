@@ -1,5 +1,4 @@
-﻿
-void ÖvningTre()
+﻿void ÖvningTre()
 {
     // Skriv ett program som frågar användaren efter ett tal.
     // Det ska skriva ut om talet är mindre än 100, lika med 100 eller större.
@@ -87,8 +86,6 @@ void ÖvningFem()
     //bool couldParse = int.TryParse("hej", out number);
     //Console.WriteLine(couldParse);
     //Console.WriteLine(number);
-
-    bool isANumber = char.IsDigit('6');
 
     bool CanParseTextToNumber(string text)
     {
